@@ -1,4 +1,4 @@
-he![logo](https://github.com/Manjunath-Walvekar/Manjunath-Walvekar/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/Manjunath-Walvekar/Manjunath-Walvekar/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Manjunath Walvekar</h1>
 <h3 align="center">A passionate electronics and communication engineer from India</h3>
 
